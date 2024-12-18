@@ -1,6 +1,6 @@
 <h2>Hello!🌸</h2>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/4hyNBpoMx9EAAAAi/cat-kitty.gif" width="450"/>
+  <img src="https://i.pinimg.com/originals/e8/fc/94/e8fc94b1577b6ad4afd88cb987af1435.gif" width="450"/>
 </div>
 <div id="badges" align="center">
   <a href="mailto:zhuchkevich.eka@gmail.com">
