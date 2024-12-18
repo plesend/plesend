@@ -1,21 +1,23 @@
+<h2>Hello!🌸</h2>
 <div id="header" align="center">
   <img src="https://media.tenor.com/4hyNBpoMx9EAAAAi/cat-kitty.gif" width="450"/>
 </div>
 <div id="badges" align="center">
   <a href="mailto:zhuchkevich.eka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://web.telegram.org/k/#@smaofk">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <div align="center" >
-  <img  src="https://komarev.com/ghpvc/?username=plesend&style=flat-square&color=blue" alt=""/>
+  <img  src="https://komarev.com/ghpvc/?username=plesend&style=soft-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
- :hammer_and_wrench: Languages and Tools :
+ :sparkles: Languages and Tools :
 </div>
+<br>
  <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "CSharp" alt = "cs" width="40" height="40"/>&nbsp;
@@ -26,10 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**knvzzi/knvzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
