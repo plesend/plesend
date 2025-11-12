@@ -33,5 +33,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=FFC8DD&center=true&vCenter=true&width=435&lines=🌷+Welcome+to+my+GitHub!+🌷;I+love+clean+code+and+cute+designs.;Let's+create+something+beautiful!+💫" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=FFC8DD&center=true&vCenter=true&width=435&lines=Loading...;🌷+Welcome+to+my+GitHub!+🌷" alt="Typing SVG"/>
 </div>
