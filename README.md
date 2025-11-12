@@ -3,9 +3,6 @@
   <img src="https://i.pinimg.com/originals/e8/fc/94/e8fc94b1577b6ad4afd88cb987af1435.gif" width="450"/>
 </div>
 <div id="badges" align="center">
-  <a href="mailto:zhuchkevich.eka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
   <a href="https://web.telegram.org/k/#@smaofk">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
