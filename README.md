@@ -1,7 +1,10 @@
-<h2 align="center">🌸 Hello, nice to see you here! 🌸</h2>
+
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=FFC8DD&center=true&vCenter=true&width=435&lines=Loading...;Welcome+to+my+GitHub!" alt="Typing SVG"/> </div>
+
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e8/fc/94/e8fc94b1577b6ad4afd88cb987af1435.gif" width="420" alt="cute anime girl waving"/>
+  <img src="https://i.pinimg.com/originals/e8/fc/94/e8fc94b1577b6ad4afd88cb987af1435.gif" width="500" alt="shirasagi"/>
 </div>
 
 <br>
@@ -16,9 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=plesend&style=flat-square&color=89CFF0" alt="Profile views"/>
 </div>
 
----
 
-<h3 align="center">✨ Languages & Tools ✨</h3>
+
+<!--<h3 align="center">✨ Languages & Tools ✨</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
@@ -29,9 +32,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=FFC8DD&center=true&vCenter=true&width=435&lines=Loading...;🌷+Welcome+to+my+GitHub!+🌷" alt="Typing SVG"/>
-</div>
+-->
